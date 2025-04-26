@@ -1,0 +1,1 @@
+"C:\Users\Tushar Pawar\AppData\Local\Microsoft\WindowsApps\python3.10.exe" -m streamlit run "C:\Users\Tushar Pawar\Desktop\New folder\web\main.py" 
