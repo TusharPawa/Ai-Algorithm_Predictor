@@ -9,10 +9,10 @@
 
 ---
 
-## 🖼️ Web App UI Preview
+## 📽️ Website Demo Overview
 
 <p align="center">
-  <img src="https://github.com/TusharPawa/Ai-Algorithm_Predictor/blob/main/Outputs/Algorithm_Prediction.jpg?raw=true" width="90%" />
+  <video src="https://github.com/user-attachments/assets/ade51797-51ac-462b-ad39-4ce2d59640c1" controls width="90%"></video>
 </p>
 
 ---
@@ -32,7 +32,6 @@
 </thead>
 <tbody>
 
-<!-- Data Importing -->
 <tr>
 <td style="vertical-align:top; padding:15px;">
 <h3>📂 Data Importing</h3>
@@ -43,7 +42,6 @@ Import any CSV or Excel dataset. The app automatically detects format and starts
 </td>
 </tr>
 
-<!-- Data Profiling -->
 <tr>
 <td style="vertical-align:top; padding:15px;">
 <h3>📊 Data Profiling</h3>
@@ -54,7 +52,6 @@ Generates an automated data profiling report with detailed column-wise summaries
 </td>
 </tr>
 
-<!-- Data Cleaning -->
 <tr>
 <td style="vertical-align:top; padding:15px;">
 <h3>🧹 Data Cleaning</h3>
@@ -66,7 +63,6 @@ Performs automatic data cleaning including missing value handling, data type cor
 </td>
 </tr>
 
-<!-- Data Modeling -->
 <tr>
 <td style="vertical-align:top; padding:15px;">
 <h3>🧠 Data Modeling</h3>
@@ -77,7 +73,6 @@ Automatically selects the target column and applies all steps: train-test split,
 </td>
 </tr>
 
-<!-- Algorithm Prediction -->
 <tr>
 <td style="vertical-align:top; padding:15px;">
 <h3>🤖 Algorithm Prediction</h3>
@@ -88,7 +83,6 @@ Selects the best performing algorithm using PyCaret’s comparison and benchmark
 </td>
 </tr>
 
-<!-- Comparison Table -->
 <tr>
 <td style="vertical-align:top; padding:15px;">
 <h3>📋 Comparison Table</h3>
@@ -99,7 +93,6 @@ Tabular view of multiple ML model scores including R2, RMSE, MAE for easy compar
 </td>
 </tr>
 
-<!-- Comparison Graph -->
 <tr>
 <td style="vertical-align:top; padding:15px;">
 <h3>📊 Comparison Graph</h3>
@@ -112,7 +105,6 @@ A visual graph showcasing top model performances to quickly identify the best al
 
 </tbody>
 </table>
-
 </div>
 
 ---
